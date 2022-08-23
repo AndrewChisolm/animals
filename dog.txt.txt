@@ -1,0 +1,6 @@
+i am dog
+
+git clone url
+git add .
+git commit -m "added dog"
+git push origin main
